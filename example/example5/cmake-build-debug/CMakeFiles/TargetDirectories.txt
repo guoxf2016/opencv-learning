@@ -1,0 +1,3 @@
+/mnt/d/github/opencv-learning/example/example5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/d/github/opencv-learning/example/example5/cmake-build-debug/CMakeFiles/example5.dir
+/mnt/d/github/opencv-learning/example/example5/cmake-build-debug/CMakeFiles/edit_cache.dir

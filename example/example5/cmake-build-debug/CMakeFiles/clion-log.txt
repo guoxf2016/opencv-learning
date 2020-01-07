@@ -1,0 +1,4 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /mnt/d/github/opencv-learning/example/example5
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /mnt/d/github/opencv-learning/example/example5/cmake-build-debug
